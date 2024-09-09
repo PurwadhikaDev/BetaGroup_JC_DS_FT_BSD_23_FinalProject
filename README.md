@@ -13,3 +13,5 @@ Recall is a crucial metric in customer churn prediction. It measures the ability
 Importance of Recall:
 
 In e-commerce, customer acquisition costs can be high, making it imperative to retain existing customers. Recall helps businesses identify and prioritize customers at risk of churn, allowing targeted retention strategies to be deployed. By maximizing recall, e-commerce businesses can minimize the number of churned customers slipping through undetected, thereby reducing revenue loss and maintaining customer loyalty.
+
+Dashboard (Tableau): https://public.tableau.com/views/E-CommerceChurnAnalysis_17253695177050/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
